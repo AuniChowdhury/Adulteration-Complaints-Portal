@@ -1,0 +1,257 @@
+﻿body
+{
+    background-color:#FFFFFF !important;
+}
+#first
+{
+    background-color:#FF3D00;
+    height:90px;
+    width:100%;
+ 
+}
+#logo{
+
+    height:60px;
+    margin:10px;
+    float:left;
+  }
+#title{
+    float:left;
+    margin-top:10px;
+    color:black;
+    font-style:inherit;
+    font-family:sans-serif;
+    font-size:16px;
+    font-weight:bold;
+}
+#signuphead{
+    color:black;
+    font:bold;
+    text-decoration:underline;
+    margin-left:42%;
+}
+#signuptable
+{
+    text-align:center;
+    text-decoration:none;
+    table-layout:fixed;
+    margin-left:20%;
+    width:750px;
+    border:none;
+}
+#signuptable td{
+    border:none;
+    color:black;
+}
+
+
+#login {
+    border:solid;
+    background-color:#9E9E9E;
+    height:250px;
+    width:500px;
+    position: absolute;
+    z-index: 15;
+  top: 50%;
+  left: 40%;
+  margin: -100px 0 0 -150px;
+ 
+
+}
+#logintable td {
+border:none;
+}
+
+#logintitle{
+    color:black;
+    font-weight:bold;
+    text-decoration:none;
+    margin-left:40%;
+    margin-right:40%;
+}
+#btnlogin{
+    background-color:black;
+    color:white;
+    border:none;
+}
+#reglink{
+    color:blue;
+    font-weight:bold;
+}
+#complainform
+{   border:solid;
+    background-color:#9E9E9E;
+    height:550px;
+    width:650px;
+    position: absolute;
+    z-index: 15;
+    top: 50%;
+    left: 35%;
+    margin: -100px 0 0 -150px;
+
+}
+#complaintitle
+{
+
+    color:black;
+    font-weight:bold;
+    text-decoration:none;
+    margin-left:40%;
+    margin-right:40%;
+}
+#complaintable td{
+    border:none;
+    font-weight:bold;
+}
+#GridView1 {
+margin-left:15%;
+}
+
+#pagelink
+{
+    float:right;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+   padding:20px;
+
+}
+#Backlink
+{
+    float:right;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+   padding:20px;
+    
+  }
+#message{
+    float:right;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+   padding:20px;
+
+
+}
+#profiletable
+{
+    text-decoration:none;
+    table-layout:fixed;
+    margin-left:5%;
+    width:300px;
+    border:none;
+
+}
+#profiletable td{
+     border:none;
+    color:black;
+
+}
+#complainheading
+{
+     color:black;
+     font:bold;
+    text-decoration:underline;
+    margin-left:42%;
+
+}
+#notihead{
+    color:black;
+    font:bold;
+    text-decoration:underline;
+    margin-left:41%;
+
+}
+#msgtable{
+     text-decoration:none;
+    table-layout:fixed;
+    margin-left:5%;
+    width:300px;
+    border:none;
+
+}
+#msgtable td
+{
+    border:none;
+    color:black;
+}
+#cmtable {
+     text-decoration:none;
+    table-layout:fixed;
+    margin-left:5%;
+    width:400px;
+    border:none;
+
+}
+#cmtable td
+{
+    border:none;
+    color:black;
+}
+#page2link{
+    float:right;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+   padding:4px;
+}
+
+#log{
+    float:right;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+   padding:6px;
+   margin-top:14px;
+}
+#msgtable
+{
+    border:none;
+
+}
+#msgtable td
+{
+    border:none;
+
+}
+#reporttable
+{
+      text-decoration:none;
+    table-layout:fixed;
+    margin-left:5%;
+    width:600px;
+    border:none;
+}
+#reporttable td
+{
+
+    border:none;
+    color:black;
+    font:bold;
+}
+#reporttable tr
+{
+    padding:20px;
+}
+#complaintsview
+{
+    margin-top:10%;
+    margin-left:35%;
+}
+#comprocess
+{
+     margin-top:10%;
+      margin-left:35%;
+}
+#crime_area{
+    
+    margin-left:10%;
+    float:left;
+}
+
+#crime_search{
+
+    
+    float:left;
+}
